@@ -1,3 +1,5 @@
+frattyはISUCON参加チームです。
+
 <ul>
   {% for post in site.posts %}
     <li>
